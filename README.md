@@ -28,13 +28,15 @@ Začínal jsem jako junior IT pracovník a postupně jsem se vypracoval na vedou
 - 🧘‍♂️ Meditace, Psychologie, koučink a biohacking
 - 🏄‍♂️ Surf, Surfskate, snowboard
 
+????
 ## 💼 Klíčové zkušenosti
 
 - Vedení týmů, plánování a realizace IT projektů
 - Správa a konsolidace datových center, návrh a migrace AD domény
 - Správa více než 400 serverů, virtualizace (VMware)
-- Cybersecurity: WAF, DMZ, SIEM, NAC, SPAM filtry
 - Vlastní projekt v Indonésii – BaliCZech.com
+
+???
 
 ## 🧠 Soft skills
 
@@ -43,7 +45,33 @@ Začínal jsem jako junior IT pracovník a postupně jsem se vypracoval na vedou
 
 ## ⚙️ Technologie
 
-Microsoft, AD, DNS, GPO, SCCM, EXCH, TCP\IP, VMware, Cisco, Linux, SQL, IoT, Jira, Confluence, GIT, CCTV,
+Microsoft 
+- Servers
+- AD, DNS, GPO, SCCM, EXCH, CA, WSUS, DHCP, SQL, NTP, FS, FTP, IIS, SharePoint, Terminal Services.
+
+
+Virtualization
+- VMware
+
+Network
+- TCP\IP
+- L2 management
+
+Cybersecurity
+- WAF
+- DMZ
+- SIEM
+- NAC
+
+IoT, Jira, Confluence, GIT, CCTV,
+
+## 🎓 Kurzy a certifikace
+
+- 🖥️ VMware vSphere Standard – instalace a správa ESXi a vCenter
+- 🧠 PRINCE2 Foundation – projektové řízení
+- 🌐 Cisco CCNA – routing and switching
+- 🧭 Koučink – Mindset Coaching®
+- ⚡ Vyhláška 50/78 Sb., §5
 
 ## 💡 Zájmy
 
