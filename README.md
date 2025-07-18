@@ -16,7 +16,7 @@
 Jsem zkušený IT specialista s více než 15 lety praxe v oblasti infrastruktury, systémové správy a vedení týmů.  
 Začínal jsem jako junior IT pracovník a postupně jsem se vypracoval na vedoucí pozici v oblasti infrastruktury.
 
-> Rád pomáhám lidem, zjednodušuji systémy a hledám řešení, která dávají smysl.
+> Rád pomáhám lidem, zjednodušuji systémy a hledám řešení, která dávají smysl.  
 > Žiju zdravě, miluju pohyb a techniku. Věřím v férový přístup, zodpovědnost a sílu malých kroků.
 
 
