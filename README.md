@@ -6,9 +6,9 @@
 <details open>
 <summary>🇨🇿 Čeština</summary>
 
-# 👋 Ahoj, já jsem Jakub Žemlička
+# 👋 Ahoj, vítej na mém GitHubu - jsem Jakub Žemlička
 
-👨‍💻 IT Infrastructure Team Leader • 🌱 Biohacking • 🧠 Seberozvoj  
+👨‍💻 IT Infrastructure Team Leader | System Administrator | Project Manager | 🌱 Biohacking | 🧠 Seberozvoj 
 🌍 Praha, Česká republika | 📧 zemlicka.jakub@gmail.com | [LinkedIn](https://www.linkedin.com/in/%C5%BEemli%C4%8Dka-jakub)
 
 ---
@@ -16,18 +16,21 @@
 Jsem zkušený IT specialista s více než 15 lety praxe v oblasti infrastruktury, systémové správy a vedení týmů.  
 Začínal jsem jako junior IT pracovník a postupně jsem se vypracoval na vedoucí pozici v oblasti infrastruktury.
 
-Rád pomáhám lidem, žiju zdravě, miluju pohyb a techniku. Věřím ve smysluplný život a férové podnikání.
+>Rád pomáhám lidem, zjednodušuji systémy a hledám řešení, která dávají smysl.
+>Žiju zdravě, miluju pohyb a techniku. Věřím v férový přístup, zodpovědnost a sílu malých kroků.
+
 
 ## 🛠 Co mě aktuálně baví
 
-- ⚙️ Automatizace a infrastruktura
-- 🧘‍♂️ Meditace a vědomé bytí
-- 🏄‍♂️ Surfskate, wakesurf, snowboard
-- 📚 Psychologie, koučink a biohacking
+- 💻 Automatizace
+- 🛠️ Infrastruktura
+- 🤖 Umělá inteligence
+- 🧘‍♂️ Meditace, Psychologie, koučink a biohacking
+- 🏄‍♂️ Surf, Surfskate, snowboard
 
 ## 💼 Klíčové zkušenosti
 
-- Vedení týmů (až 8 lidí), plánování a realizace IT projektů
+- Vedení týmů, plánování a realizace IT projektů
 - Správa a konsolidace datových center, návrh a migrace AD domény
 - Správa více než 400 serverů, virtualizace (VMware)
 - Cybersecurity: WAF, DMZ, SIEM, NAC, SPAM filtry
@@ -36,19 +39,16 @@ Rád pomáhám lidem, žiju zdravě, miluju pohyb a techniku. Věřím ve smyslu
 ## 🧠 Soft skills
 
 - Zodpovědnost, disciplína, leadership, komunikace
-- Typologie: **ISFJ**
 - CliftonStrengths: Harmony, Relator, Activator, Responsibility, Discipline
 
 ## ⚙️ Technologie
 
-AD, DNS, GPO, SCCM, EXCH, VMware, Cisco, Linux, SQL, IoT, Jira, GIT, CCTV, 4me Helpdesk...
+Microsoft, AD, DNS, GPO, SCCM, EXCH, TCP\IP, VMware, Cisco, Linux, SQL, IoT, Jira, Confluence, GIT, CCTV,
 
 ## 💡 Zájmy
 
-Surf, snowboard, běh, jízda na motorce a kole, biohacking, meditace, kryptoměny, osobní rozvoj.
+Surf, snowboard, běh, biohacking, meditace, kryptoměny, osobní rozvoj.
 
-> „Rád vedu lidi, zjednodušuji systémy a hledám řešení, která dávají smysl.“  
-> Věřím v férový přístup, zodpovědnost a sílu malých kroků.
 
 📎 [CV v PDF (EN)](https://...)
 
