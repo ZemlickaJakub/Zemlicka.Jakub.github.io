@@ -27,7 +27,7 @@ Začínal jsem jako junior IT pracovník a postupně jsem se vypracoval na vedou
 - 🛠️ Infrastruktura
 - 🤖 Umělá inteligence
 - 🧘‍♂️ Meditace, Psychologie, koučink a biohacking
-- 🏄‍♂️ Surf, Surfskate, snowboard
+- 🏄‍♂️ Surf, Surfskate, Snowboard
 
 ????
 ## 💼 Klíčové zkušenosti
