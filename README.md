@@ -8,8 +8,8 @@
 
 # 👋 Ahoj, vítej na mém GitHubu - jsem Jakub Žemlička
 
-👨‍💻 IT Infrastructure Team Leader | System Administrator | Project Manager | 🌱 Biohacking | 🧠 Seberozvoj
-🌍 Praha, Česká republika
+👨‍💻 IT Infrastructure Team Leader | System Administrator | Project Manager | 🌱 Biohacking | 🧠 Seberozvoj  
+🌍 Praha, Česká republika  
 📧 zemlicka.jakub@gmail.com | [LinkedIn](https://www.linkedin.com/in/%C5%BEemli%C4%8Dka-jakub/)
 
 ---
