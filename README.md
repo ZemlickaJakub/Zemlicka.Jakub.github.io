@@ -32,10 +32,11 @@ Rád pomáhám lidem, zjednodušuji systémy a hledám řešení, která dávaj�
 ## 💼 Klíčové zkušenosti
 
 - Vedení týmů, plánování a realizace IT projektů
+- Nasazení K8s Clusteru v PCI-DSS zoně
 - Správa a konsolidace datových center, návrh a migrace AD domény
 - Správa více než 400 serverů, virtualizace (VMware)
 - Vlastní projekt v Indonésii – BaliCZech.com
-
+- Vytvoření komunity - Finky & Kolečka
 ???
 
 ## 🧠 Soft skills
