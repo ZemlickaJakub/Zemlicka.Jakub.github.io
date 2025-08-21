@@ -73,6 +73,8 @@ IoT, Jira, Confluence, GIT, CCTV,
 - 🌐 Cisco CCNA – routing and switching
 - 🧭 Koučink – Mindset Coaching®
 - ⚡ Vyhláška 50/78 Sb., §5
+- Minutový řečník
+- ??????
 
 ## 💡 Zájmy
 
